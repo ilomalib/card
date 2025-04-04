@@ -1,2 +1,0 @@
-# card
-product cards
